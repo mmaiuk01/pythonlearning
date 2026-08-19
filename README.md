@@ -1,4 +1,4 @@
-## My Pytho Learning Journey
+## My Python Learning Journey
 
 This repository contains my Python programming exercises and projects.
 
